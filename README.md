@@ -10,7 +10,7 @@ Shirley JAVA MVC framework is a boiler plate application.
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
 ### How do I get set up? ###
-
+* naviagte to java folder
 * Create a new Controller
 * Create a new Model
 * Create a new View
