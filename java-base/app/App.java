@@ -2,7 +2,7 @@ public class App {
 
   public static void main(String[]  args){
 
-    AppController cont = new AppController();
+    AppRoutes cont = new AppRoutes();
 
     cont.data.setData("foo","bar");
 

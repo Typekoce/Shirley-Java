@@ -43,9 +43,9 @@ public class AppView extends AppWindow {
         @Override
         public void actionPerformed(ActionEvent e) {
 
-            //AppController cont = new AppController(txt);
+            //AppRoutes cont = new AppRoutes(txt);
 
-            AppController cont = new AppController();
+            AppRoutes cont = new AppRoutes();
 
             cont.data.setData("foo","bar");
 

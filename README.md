@@ -14,7 +14,7 @@ Shirley JAVA MVC framework is a boiler plate application.
 * Create a new Controller
 * Create a new Model
 * Create a new View
-* Add new controller to AppController
+* Add new controller to AppRoutes
 * Compile and run by using the ```./build.sh``` command under linux
 * Make sure to apply the appropriate permissions to make build.sh executable
 

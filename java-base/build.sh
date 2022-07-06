@@ -16,6 +16,10 @@ cp *.* ../build
 cd ../controllers/
 cp *.* ../build
 
+# Copy Routes
+cd ../routes/
+cp *.* ../build
+
 # Copy Models
 cd ../models/
 cp *.* ../build

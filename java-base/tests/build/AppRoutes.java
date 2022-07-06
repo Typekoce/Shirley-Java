@@ -1,4 +1,4 @@
-public class AppController {
+public class AppRoutes {
 
   public AppPrint print = new AppPrint();
 
